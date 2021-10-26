@@ -44,14 +44,14 @@
           figure.mb-4
             img(src='@/assets/curso/tema4/img03.svg', alt='')
           h3.text-center Publicidad
-          p.mb-4 Principalmente es una herramienta usada para diseñar estrategias que tiene la finalidad de divulgar una marca o servicio llegando al público objetivo para incentivar la compra. Aquí juegan un papel importante los anuncios para impactar y llamar la atención de los consumidores.
+          p.mb-0 Principalmente es una herramienta usada para diseñar estrategias que tiene la finalidad de divulgar una marca o servicio llegando al público objetivo para incentivar la compra. Aquí juegan un papel importante los anuncios para impactar y llamar la atención de los consumidores.
       
       .col-9.col-md-4
         .BG00.bRTFullR.p-4.h-100
-          figure.mb-4
+          figure0
             img(src='@/assets/curso/tema4/img04.svg', alt='')
           h3.text-center Marketing
-          p.mb-4 Es la estrategia usada para el estudio de los mercados y las necesidades de los consumidores, teniendo en cuenta la gestión comercial que realizan las empresas. Sin duda alguna, el marketing es una de las herramientas más importantes de la mercadotecnia actual, si no existe una estrategia de marketing bien diseñada es muy probable que una empresa no sea tan competitiva.
+          p.mb-0 Es la estrategia usada para el estudio de los mercados y las necesidades de los consumidores, teniendo en cuenta la gestión comercial que realizan las empresas. Sin duda alguna, el marketing es una de las herramientas más importantes de la mercadotecnia actual, si no existe una estrategia de marketing bien diseñada es muy probable que una empresa no sea tan competitiva.
       
     .row.justify-content-center.mb-5
       .col-md-10
@@ -162,17 +162,6 @@
           p.p-4.mb-0 Aceptación o rechazo del satisfactor.
     
     p.mb-0 Finalmente, se hace alusión a la psicología del consumidor como  el comportamiento que tiene cada individuo a la hora de comprar, se analizan los pensamientos, creencias, sentimientos y percepciones que influyen en la forma en que compran y la relación con los bienes y servicios.
-
-
-        
-    
-          
-          
-
-
-
-
-
   
 </template>
 
