@@ -195,141 +195,106 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Carrasco, R. (2007). La sociedad de consumo: origen y características. Contribuciones a la Economía. ',
+      link: 'http://www.eumed.net/ce/',
+    },
+    {
+      referencia: 'Digital Guide Ionos. (2018). Marketing omnicanal. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://www.ionos.es/digitalguide/online-marketing/vender-en-internet/marketing-omnicanal/',
+    },
+    {
+      referencia: 'Galán, J. (2016). Consumidor. Economipedia. ',
+      link: 'https://economipedia.com/definiciones/consumidor.html',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Ginner, J. (2019). Canales de distribución, ¿Cuál es el adecuado para tu negocio? Escuela de Negocios y Dirección. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.escueladenegociosydireccion.com/revista/business/emprendedores/canales-de-distribucion-cual-es-el-adecuado-para-tu-negocio.',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'González, M. y Pérez, A. (2009). Introducción a la economía. Pearson. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'http://148.202.167.116:8080/xmlui/bitstream/handle/123456789/3181/introduccion_economia.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Kotler, P. y Kelller, K (2012). Dirección de marketing. Pearson. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'http://www.montartuempresa.com/wp-content/uploads/2016/01/direccion-de-marketing-14edi-kotler1.pdf',
+    },
+    {
+      referencia: 'MacMillan Education. (2018). Gestión de stocks. ',
+      link:
+        'https://www.macmillaneducation.es/wp-content/uploads/2018/10/gestion_logistica_libroalumno_unidad3muestra.pdf.',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Mochón, F. (1990). Economía principios y aplicaciones. McGraw Hill. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://ens9004-infd.mendoza.edu.ar/sitio/geografia-economica/upload/09-%20MOCHON%20MORCILLO%20%26%20BEKER%20-%20LIBRO%20-%20Principios%20y%20Aplicaciones%20de%20Econom%EDa.pdf',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Orellana (2021) La estructuración de los diferentes canales. Marketing XXI. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.marketing-xxi.com/canales-de-distribucion-63.htm,14/07/2021',
+    },
+    {
+      referencia:
+        'Rivera, C. y Arellano, C. (2013). Conducta del consumidor: Estrategias y políticas aplicadas al Marketing. ESIC.',
+    },
+    {
+      referencia: 'Sánchez, J. (2016).  Consumidor. Economipedia. ',
+      link: 'https://economipedia.com/definiciones/consumidor.html',
+    },
+    {
+      referencia: 'Smith, A. (1776). La riqueza de las naciones. Titivillus. ',
+      link:
+        'https://www.memoriapoliticademexico.org/Textos/1Independencia/Imag/1776-AS-LRN.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Briefing',
+      terminoHtml: '<em>Briefing</em>',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'documento que sirve como herramienta de comunicación entre una empresa y sus proveedores.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+      termino: 'Eslogan',
+      significado: 'palabra o frase corta fácil de recordar.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Marca',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'identificador comercial de los bienes y servicios que ofrece una empresa y los diferencia de los de la competencia.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Mercadotecnia',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'conjunto de técnicas y estudios que tienen como objeto mejorar la comercialización de un producto.',
     },
     {
-      termino: 'Moda',
+      termino: 'Omnicanal',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'estrategia de <em>marketing</em> que busca ofrecer una experiencia única e interconectada a los clientes a través del diálogo y alineación de canales <em>online</em> y <em>offline</em>. Es decir, en lugar de trabajar en paralelo, todos los canales están diseñados y orquestados para cooperar entre sí. ',
     },
     {
-      termino: 'DIseño',
+      termino: 'Producto',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Diseña',
-      significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'bien tangible o producto que ofrece una empresa a los consumidores.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
+        'Cuéllar, L. (2018). Ley de la oferta y la demanda. [Video]. YouTube.',
       tipo: 'Video',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+      link:
+        'https://www.youtube.com/watch?v=uJDbxq2zIig&ab_channel=Lic.LourdesCuellar ',
     },
   ],
   creditos: {
@@ -361,13 +326,19 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Luis Gabriel Urueta Alvarez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Oscar Julian Marquez Sanabria',
+        cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Diego Fernando Velasco Güiza',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
