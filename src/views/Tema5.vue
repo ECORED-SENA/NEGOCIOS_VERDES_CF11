@@ -86,32 +86,32 @@
 
     .row.justify-content-center.align-items-stretch.mb-3
       .col-md-3.mb-4.mb-md-0.BG2o.p-3.d-flex.align-items-center.justify-content-center
-        h3.text-white.mb-0 Alcance global
+        h3.text-white.mb-0.text-center Alcance global
       .col-md-7.BG10.p-3
         p.mb-0 La tienda física es geográficamente limitada y el comercio electrónico no presenta este tipo de limitaciones por lo que se pueden realizar ventas a todo tipo de personas en cualquier parte del mundo.
     .row.justify-content-center.align-items-stretch.mb-3
       .col-md-3.mb-4.mb-md-0.BG1o.p-3.d-flex.align-items-center.justify-content-center
-        h3.text-white.mb-0 Siempre abierto   
+        h3.text-white.mb-0.text-center Siempre abierto   
       .col-md-7.BG10.p-3
         p.mb-0 No tiene limitación de tiempo, los clientes pueden visualizar sus productos a cualquier día y hora ya que se encuentra abierta las 24 horas del día 365 días al año.
     .row.justify-content-center.align-items-stretch.mb-3
       .col-md-3.mb-4.mb-md-0.BG1o.p-3.d-flex.align-items-center.justify-content-center
-        h3.text-white.mb-0 Ahorros en costos
+        h3.text-white.mb-0.text-center Ahorros en costos
       .col-md-7.BG10.p-3
         p.mb-0 No necesita de infraestructura ni costos de trabajadores y los costos operativos son bajos por lo que se hacen alta mente competitivas con los precios en el mercado.
     .row.justify-content-center.align-items-stretch.mb-3
       .col-md-3.mb-4.mb-md-0.BG1o.p-3.d-flex.align-items-center.justify-content-center
-        h3.text-white.mb-0 Gestión automatizada del inventario 
+        h3.text-white.mb-0.text-center Gestión automatizada del inventario 
       .col-md-7.BG10.p-3
         p.mb-0 En el mundo electrónico existen innumerables herramientas que permiten administrar el #[i stock] de forma fácil y sencilla.
     .row.justify-content-center.align-items-stretch.mb-3
       .col-md-3.mb-4.mb-md-0.BG1o.p-3.d-flex.align-items-center.justify-content-center
-        h3.text-white.mb-0 #[i Marketing] dirigido
+        h3.text-white.mb-0.text-center #[i Marketing] dirigido
       .col-md-7.BG10.p-3
         p.mb-0 Permite realizar una base de datos de consumidores para hacer proyecciones de cuales productos se pueden ofrecer a  las personas adecuadas.
     .row.justify-content-center.align-items-stretch
       .col-md-3.mb-4.mb-md-0.BG2o.p-3.d-flex.align-items-center.justify-content-center
-        h3.text-white.mb-0 Dominio de mercado
+        h3.text-white.mb-0.text-center Dominio de mercado
       .col-md-7.BG10.p-3
         p.mb-0 Permite encontrar clientes ideales en un mercado global.
   

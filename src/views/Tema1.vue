@@ -18,7 +18,7 @@
         .bloque-texto-e.color-primario.BG11.br01.p-4.mb-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            p.text-regular La economía se preocupa, precisamente de la manera en que se administran unos recursos escasos, con el objetivo de producir diversos bienes y distribuidos para el consumo entre los miembros de la sociedad. La economía se ocupa de las cuestiones que se generan en relación con la satisfacción de las necesidades de los individuos y de la sociedad 
+            p.text-regular Es la ciencia que se ocupa de la manera que se administran los recursos que son escasos, con el objetivo de producir bienes y servicios, y distribuirlos para consumo entre los miembros de una sociedad 
             h4 (Smith, 1776).
             i.fas.fa-quote-right
 

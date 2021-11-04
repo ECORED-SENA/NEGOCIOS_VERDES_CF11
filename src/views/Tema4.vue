@@ -50,7 +50,7 @@
           figure.mb-4
             img(src='@/assets/curso/tema4/img04.svg', alt='')
           h3.text-center #[i Marketing]
-          p.mb-0 Es la estrategia usada para el estudio de los mercados y las necesidades de los consumidores, teniendo en cuenta la gestión comercial que realizan las empresas. Sin duda alguna, el marketing es una de las herramientas más importantes de la mercadotecnia actual, si no existe una estrategia de marketing bien diseñada es muy probable que una empresa no sea tan competitiva.
+          p.mb-0 Es la estrategia usada para el estudio de los mercados y las necesidades de los consumidores, teniendo en cuenta la gestión comercial que realizan las empresas. Sin duda alguna, el marketing es una de las herramientas más importantes de la mercadotecnia actual, si no existe una estrategia de #[i marketing] bien diseñada es muy probable que una empresa no sea tan competitiva.
       
     .row.justify-content-center.mb-5
       .col-md-10

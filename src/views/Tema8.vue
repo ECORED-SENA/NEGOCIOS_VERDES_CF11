@@ -159,7 +159,7 @@
         p.mb-0 Se debe tener en cuenta que si el índice de rotación es muy bajo quiere decir que los productos tienen poca rotación lo que conlleva a elevar los costos de almacenamiento, teniendo como consecuencia que el inventario quede obsoleto por la aparición de nuevas colecciones y la inversión realizada no sería tan rentable. Por el contrario, si el índice de rotación es muy alto eso indicaría que los productos existentes tienen alta rotación de tal manera que los costos de gestión de compra son altos y se tendrá que dar un servicio oportuno a los clientes en las épocas de alta demanda que presente el producto. Entonces, lo correcto sería aumentar el índice de rotación de #[i stocks] manteniendo el margen comercial:
       
       .col-md-8.mb-3.p-5.BG11.mb-2
-        p.mb-0.text-center Beneficio= Margen comercial * Índice de rotación
+        p.mb-0.text-center #[b Beneficio= Margen comercial * Índice de rotación]
       
       .col-md-8.mb-3.p-5.BG00.mb-2
         p.mb-0 Y una vez calculado el índice de rotación de #[i stocks], se podrá determinar el periodo de almacenamiento que cada cuantos días o meses renuevan la mercancía o productos.
