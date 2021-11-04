@@ -298,15 +298,14 @@
           img(src='@/assets/curso/tema2/img19.svg', alt='')
     
     TabsB.color-acento-contenido
-      .py-4.py-md-5(titulo="Ley de la demanda" :icono="require('@/assets/curso/tema2/img20.svg')")
-        SlyderA
-          .row.justify-content-center.align-items-center.m-4
-            .col-md-5.mb-4.mb-md-0
-              h3 Ley de la demanda
-              p.mb-0 La cantidad de bien o servicio que los consumidores quieren y pueden comprar depende de muchos factores, siendo el más significativo el precio del mismo. Este hecho que recoge la relación inversa que existe entre la cantidad demandada de un bien y su precio, se le conoce en la literatura  económica como la ley de la demanda, y esta dice que cuanto mayor sea el precio de un producto menor será la cantidad demandada del mismo y viceversa (González y Pérez, 2009).
-            .col-md-5
-              figure
-                img.w-75.mx-auto(src='@/assets/curso/tema2/img31.svg', alt='')
+      .py-4.py-md-5(titulo="Ley de oferta" :icono="require('@/assets/curso/tema2/img20.svg')")
+        .row.justify-content-center.align-items-center.m-4
+          .col-md-5.mb-4.mb-md-0
+            h3 Ley de oferta
+            p.mb-0 Lógicamente los compradores y vendedores ven desde una perspectiva diferente los precios, mientras que para los compradores los precios muy elevados desaniman a adquirir los productos, los vendedores con el mismo precio incrementado se motivan a producir más para proyectar y obtener un mayor ingreso por producto vendido. En relación con lo anterior, empieza a jugar un papel importante la rentabilidad, ya que el objetivo es generar mayores beneficios. Para ultimar, cuanto mayor sea el precio del bien es más rentable y la oferta incrementa, a este comportamiento que realizan los vendedores se denomina #[b ley de oferta].
+          .col-md-5
+            figure
+              img.w-75.mx-auto(src='@/assets/curso/tema2/img31.svg', alt='')
           
       .py-4.py-md-5(titulo="Curva de la oferta" :icono="require('@/assets/curso/tema2/img21.svg')")
         .row.justify-content-center.align-items-center.m-4

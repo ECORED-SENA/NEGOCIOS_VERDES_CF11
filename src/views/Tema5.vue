@@ -73,7 +73,7 @@
     #t5_2.titulo-segundo
       h2 5.2 Formatos comerciales sin presencia física
 
-    .row.justify-content-center.mb-5    
+    .row.justify-content-center.mb-4 
       .col-lg-10
         .bloque-texto-g.color-acento-contenido.BG30.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
@@ -82,6 +82,8 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Comúnmente llamado comercio electrónico y se puede definir como el proceso de compra y venta por medio de dispositivos electrónicos. En los últimos años este creció a pasos agigantados y, en cierto modo, está logrando desplazar a las tiendas tradicionales.  Los beneficios que esta modalidad ofrece son innumerables dentro de los que se encuentran:
       
+    h3.text-center.mb-4 Beneficios del comercio electrónico
+
     .row.justify-content-center.align-items-stretch.mb-3
       .col-md-3.mb-4.mb-md-0.BG2o.p-3.d-flex.align-items-center.justify-content-center
         h3.text-white.mb-0 Alcance global
@@ -101,7 +103,7 @@
       .col-md-3.mb-4.mb-md-0.BG1o.p-3.d-flex.align-items-center.justify-content-center
         h3.text-white.mb-0 Gestión automatizada del inventario 
       .col-md-7.BG10.p-3
-        p.mb-0 En el mundo electrónico existen innumerables herramientas que permiten administrar el stock de forma fácil y sencilla.
+        p.mb-0 En el mundo electrónico existen innumerables herramientas que permiten administrar el #[i stock] de forma fácil y sencilla.
     .row.justify-content-center.align-items-stretch.mb-3
       .col-md-3.mb-4.mb-md-0.BG1o.p-3.d-flex.align-items-center.justify-content-center
         h3.text-white.mb-0 #[i Marketing] dirigido

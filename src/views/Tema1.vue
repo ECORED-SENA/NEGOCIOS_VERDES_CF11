@@ -13,13 +13,13 @@
         figure.mb-4
           img(src='@/assets/curso/tema1/img01.jpg', alt='Economía')
         
-        p.mb-4 Este término se deriva del término griego #[i “oikos”] que significa “casa” o lugar donde se vive y la terminación okonos que designa “administración de la casa” (Smith, 1776).
+        p.mb-4 Este término se deriva del término griego #[i “oikos”] que significa “casa” o lugar donde se vive y la terminación #[i okonos] que designa “administración de la casa” (Smith, 1776).
 
         .bloque-texto-e.color-primario.BG11.br01.p-4.mb-4
           .bloque-texto-e__texto
             i.fas.fa-quote-left
-            p.text-regular Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt augue in augue tempus, in dapibus justo interdum. Sed viverra sed odio quis rhoncus. In elementum purus massa, id venenatis purus ullamcorper ut. Vestibulum vel dictum dolor, nec fringilla orci. Nulla vestibulum, metus nec porttitor bibendum, lectus ligula viverra eros, eget tempor risus nulla pretium justo. Nullam turpis dolor, pharetra vel fermentum at, rutrum in elit. Maecenas vitae hendrerit libero, et ornare augue. Vestibulum iaculis, metus et accumsan malesuada. 
-            h4 (Smith, 1776)
+            p.text-regular La economía se preocupa, precisamente de la manera en que se administran unos recursos escasos, con el objetivo de producir diversos bienes y distribuidos para el consumo entre los miembros de la sociedad. La economía se ocupa de las cuestiones que se generan en relación con la satisfacción de las necesidades de los individuos y de la sociedad 
+            h4 (Smith, 1776).
             i.fas.fa-quote-right
 
         p.mb-0 En otras palabras, se dice que la economía es planificar y administrar de forma correcta los recursos para satisfacer al máximo necesidades de la población global.
@@ -111,7 +111,7 @@
 
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1. 
-          span Tipos de bienes
+          span #[i Tipos de bienes]
 
         table.TableP01
           thead

@@ -15,8 +15,7 @@
         
         .row.justify-content-center.PTr01.mb-5
           .col-md-10
-            p.BG112.br01.p-3.mb-4 
-              Es el estudio basado en comprender los motivos que llevan a que un individuo o ente decidan conseguir un bien o un servicio buscando satisfacer sus gustos y necesidades. Por otra parte, se puede decir que es un trabajo conjunto entre las disciplinas de la economía y la psicología que interactúan entre sí para explicar con exactitud el comportamiento que experimenta la sociedad a la hora de consumir.
+            p.BG112.br01.p-3.mb-4 Es el estudio basado en comprender los motivos que llevan a que un individuo o ente decidan conseguir un bien o un servicio buscando satisfacer sus gustos y necesidades. Por otra parte, se puede decir que es un trabajo conjunto entre las disciplinas de la economía y la psicología que interactúan entre sí para explicar con exactitud el comportamiento que experimenta la sociedad a la hora de consumir.
           
             .bloque-texto-e.color-primario.BG30.br01.p-4.my-5
               .bloque-texto-e__texto
@@ -30,7 +29,7 @@
           .col-md-8.mb-4
             figure
               img(src='@/assets/curso/tema4/img02.svg', alt='')
-            .BG3o.p-3
+            .BG3o.p-3.bRBT 
               h3.text-white.text-center.mb-0 Diferencia entre cliente y consumidor
           
     .row.justify-content-center.mb-5
@@ -48,9 +47,9 @@
       
       .col-9.col-md-4
         .BG00.bRTFullR.p-4.h-100
-          figure0
+          figure.mb-4
             img(src='@/assets/curso/tema4/img04.svg', alt='')
-          h3.text-center Marketing
+          h3.text-center #[i Marketing]
           p.mb-0 Es la estrategia usada para el estudio de los mercados y las necesidades de los consumidores, teniendo en cuenta la gestión comercial que realizan las empresas. Sin duda alguna, el marketing es una de las herramientas más importantes de la mercadotecnia actual, si no existe una estrategia de marketing bien diseñada es muy probable que una empresa no sea tan competitiva.
       
     .row.justify-content-center.mb-5

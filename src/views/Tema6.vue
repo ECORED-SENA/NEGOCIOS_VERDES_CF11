@@ -44,7 +44,7 @@
       .col-md-10.col-lg-8.mb-4
         .titulo-sexto.color-acento-contenido
           h5 Figura 3.
-          p.mb-0 La estructuración de los diferentes canales
+          p.mb-0 #[i La estructuración de los diferentes canales]
         figure.mb-5
           img(src='@/assets/curso/tema6/img04.svg', alt='')
           figcaption Nota. Tomada de Orellana (2021).

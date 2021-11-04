@@ -19,7 +19,7 @@
               | Un perfil de cliente a veces denominado perfil de consumidor es un documento que enumera los puntos débiles, los intereses, los patrones de compra y las características demográficas de los clientes de una empresa.
               br
               br
-              | Crear un perfil de cliente puede ayudar a ejecutar mejores campañas de marketing que, a su vez, aumentan las ganancias. Con toda esa información útil, se puede decidir qué estrategia implementar y cuáles evitar.
+              | Crear un perfil de cliente puede ayudar a ejecutar mejores campañas de #[i marketing] que, a su vez, aumentan las ganancias. Con toda esa información útil, se puede decidir qué estrategia implementar y cuáles evitar.
     
     separador
     
@@ -34,7 +34,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema3/img02.jpg')})`}"
           )
           .bloque-texto-g__texto.p-4
-            p.mb-0 Aquí se debe referenciar que es un individuo o compañía que compra servicios ofrecidos por una empresa, ya sea para su uso o para que los use otra persona; sin dudarlo es hacia los clientes donde las empresas enfocan sus estrategias de marketing.
+            p.mb-0 Aquí se debe referenciar que es un individuo o compañía que compra servicios ofrecidos por una empresa, ya sea para su uso o para que los use otra persona; sin dudarlo es hacia los clientes donde las empresas enfocan sus estrategias de #[i marketing].
       
         .cajon.color-primario.BG10.p-2.mb-5
           .row.justify-content-center.align-items-center.m-4
@@ -167,12 +167,12 @@
                 img.w-50.mx-auto(src='@/assets/curso/tema3/img16.svg', alt='')
               p.mb-0 El trato para los clientes debe ser el mismo para todos, en ellos la atención es menos que a los que generan más ingreso para la empresa.
     
-    p.mb-5 Cuando ya se sabe cómo están clasificados los clientes se debe segmentarlos para realizar la estrategia de marketing más adecuada, aludiendo que cada cliente tiene necesidades diferentes, es necesario realizar, entonces, grupos teniendo en cuenta las variables; lo que se busca con la segmentación es consolidar una base de datos que permite tener información como productos más adquiridos, frecuencia y cantidades. En definitiva, lo que se busca es tener conocimiento de los clientes que se tienen para usar la estrategia con cada uno de ellos.
+    p.mb-5 Cuando ya se sabe cómo están clasificados los clientes se debe segmentarlos para realizar la estrategia de #[i marketing] más adecuada, aludiendo que cada cliente tiene necesidades diferentes, es necesario realizar, entonces, grupos teniendo en cuenta las variables; lo que se busca con la segmentación es consolidar una base de datos que permite tener información como productos más adquiridos, frecuencia y cantidades. En definitiva, lo que se busca es tener conocimiento de los clientes que se tienen para usar la estrategia con cada uno de ellos.
 
     .row.align-items-center.justify-content-center.BG30.bRTF.mb-4.mTN01
       .col-md-9.p-4
         h4 Perfilación del cliente
-        p.mb-0 Con lo mencionado anteriormente se concluye que es una descripción detallada incluyendo todas las características, sociales, económicas y comportamentales para identificar el individuo que, posiblemente, quiera adquirir alguno de los productos ofertados.
+        p.mb-0 Con lo mencionado anteriormente se concluye que es una descripción detallada incluyendo todas las características, #[b sociales, económicas y comportamentales para identificar el individuo que, posiblemente, quiera adquirir alguno de los productos ofertados].
       .col-8.col-md-3.px-4
         figure.bRBot
           img(src='@/assets/curso/tema3/img17.svg', alt='')        
