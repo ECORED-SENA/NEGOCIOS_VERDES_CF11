@@ -118,7 +118,7 @@
             h3.text-center.mb-0 Carencia
           figure.mb-2
             img(src='@/assets/curso/tema4/img06.svg', alt='')
-          p.p-4.mb-0 Cuando algo hace falta.
+          p.p-4.mb-0.text-center Cuando algo hace falta.
       
       .col-6.col-md-2.mb-4.mb-md-4
         .BG3o.text-white.h-100
@@ -126,7 +126,7 @@
             h3.text-center.mb-0 Necesidad
           figure.mb-2
             img(src='@/assets/curso/tema4/img07.svg', alt='')
-          p.p-4.mb-0 Toma conciencia de la carencia.
+          p.p-4.mb-0.text-center Toma conciencia de la carencia.
       
       .col-6.col-md-2.mb-4.mb-md-4
         .BG2o.text-white.h-100
@@ -134,7 +134,7 @@
             h3.text-center.mb-0 Motivación
           figure.mb-2
             img(src='@/assets/curso/tema4/img08.svg', alt='')
-          p.p-4.mb-0 Se impulsa a actuar.
+          p.p-4.mb-0.text-center Se impulsa a actuar.
       
       .col-6.col-md-2.mb-4.mb-md-4
         .BG1o.text-white.h-100
@@ -142,7 +142,7 @@
             h3.text-center.mb-0 Deseos
           figure.mb-2
             img(src='@/assets/curso/tema4/img09.svg', alt='')
-          p.p-4.mb-0 Idea de cómo quiere satisfacer la necesidad.
+          p.p-4.mb-0.text-center Idea de cómo quiere satisfacer la necesidad.
       
       .col-6.col-md-2.mb-4.mb-md-4
         .BG3o.text-white.h-100
@@ -150,7 +150,7 @@
             h3.text-center.mb-0 Aprendizaje
           figure.mb-2
             img(src='@/assets/curso/tema4/img10.svg', alt='')
-          p.p-4.mb-0 Influencia de la familia, el grupo social y la cultura. 
+          p.p-4.mb-0.text-center Influencia de la familia, el grupo social y la cultura. 
       
       .col-6.col-md-2.mb-4.mb-md-4
         .BG2o.text-white.h-100
@@ -158,7 +158,7 @@
             h3.text-center.mb-0 Actitud
           figure.mb-2
             img(src='@/assets/curso/tema4/img11.svg', alt='')
-          p.p-4.mb-0 Aceptación o rechazo del satisfactor.
+          p.p-4.mb-0.text-center Aceptación o rechazo del satisfactor.
     
     p.mb-0 Finalmente, se hace alusión a la psicología del consumidor como  el comportamiento que tiene cada individuo a la hora de comprar, se analizan los pensamientos, creencias, sentimientos y percepciones que influyen en la forma en que compran y la relación con los bienes y servicios.
   
